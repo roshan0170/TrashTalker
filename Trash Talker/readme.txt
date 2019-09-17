@@ -1,5 +1,5 @@
 ***************************************************************************************************************************************
-This is a project done as part of the Bolt Iot Internship.
+This is a project done as part of the Bolt Iot Training.
 It is caleed as the Trash talker
 It is a simple project which sends an sms to the user when the trash is full so that waste management is more efficient.
 
